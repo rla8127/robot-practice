@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/10_threads_mutex.dir/link.d CMakeFiles/10_threads_mutex.dir/10_threads_mutex/main.cpp.o -o 10_threads_mutex
