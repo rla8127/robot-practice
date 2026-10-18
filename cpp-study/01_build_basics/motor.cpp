@@ -12,8 +12,12 @@
 // 생성자 본문 안에서 대입하는 것보다 이 방식이 권장된다.
 Motor::Motor(int id) : id_(id) {}
 
-void Motor::moveTo(double target) {
+bool Motor::moveTo(double target) {
+    if (target < 0.0 || target > 10.0) {
+        return false;
+    }
     target_ = target;
+    return true;
 }
 
 void Motor::update() {

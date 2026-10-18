@@ -31,6 +31,10 @@ int main() {
         std::cout << "  tick " << tick << ": position = " << motor.position() << '\n';
     }
 
+    if (!motor.moveTo(15.0)) {
+        std::cout << "15.0은 범위 밖이라 거부됨. 현재 위치 = " << motor.position() << '\n';
+    }
+
     std::cout << "도착! (" << tick << " ticks)\n";
     return 0;
 }
