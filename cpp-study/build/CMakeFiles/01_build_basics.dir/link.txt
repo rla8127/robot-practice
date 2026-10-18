@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/01_build_basics.dir/link.d CMakeFiles/01_build_basics.dir/01_build_basics/main.cpp.o CMakeFiles/01_build_basics.dir/01_build_basics/motor.cpp.o -o 01_build_basics

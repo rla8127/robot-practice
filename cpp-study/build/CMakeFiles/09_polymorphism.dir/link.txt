@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/09_polymorphism.dir/link.d CMakeFiles/09_polymorphism.dir/09_polymorphism/main.cpp.o -o 09_polymorphism

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/05_smart_pointers.dir/link.d CMakeFiles/05_smart_pointers.dir/05_smart_pointers/main.cpp.o -o 05_smart_pointers

@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/03_object_lifetime.dir/link.d CMakeFiles/03_object_lifetime.dir/03_object_lifetime/main.cpp.o -o 03_object_lifetime
