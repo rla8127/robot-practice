@@ -1,0 +1,1 @@
+/home/ec2-user/.local/bin/c++ CMakeFiles/10_threads_mutex.dir/10_threads_mutex/main.cpp.o -o 10_threads_mutex 

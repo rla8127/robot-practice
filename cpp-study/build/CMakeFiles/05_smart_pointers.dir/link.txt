@@ -1,0 +1,1 @@
+/home/ec2-user/.local/bin/c++ CMakeFiles/05_smart_pointers.dir/05_smart_pointers/main.cpp.o -o 05_smart_pointers 

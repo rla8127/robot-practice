@@ -1,0 +1,1 @@
+/home/ec2-user/.local/bin/c++ CMakeFiles/07_stl_containers.dir/07_stl_containers/main.cpp.o -o 07_stl_containers 

@@ -1,0 +1,1 @@
+/home/ec2-user/.local/bin/c++ CMakeFiles/06_copy_move.dir/06_copy_move/main.cpp.o -o 06_copy_move 
